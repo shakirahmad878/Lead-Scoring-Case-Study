@@ -24,8 +24,8 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:<br>
 ```
-git clone https://github.com/shakirahmad878/Lead-Scoring-Case-Study<br>
-cd x-education-lead-scoring<br>
+git clone https://github.com/shakirahmad878/Lead-Scoring-Case-Study
+cd x-education-lead-scoring
 ```
 
 2. Install the required dependencies:<br>
