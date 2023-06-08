@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:<br>
 ```
-git clone [https://github.com](https://github.com/shakirahmad878)/Lead-Scoring-Case-Study.git<br>
+git clone https://github.com/shakirahmad878/Lead-Scoring-Case-Study<br>
 cd x-education-lead-scoring<br>
 ```
 
